@@ -1,0 +1,89 @@
+
+
+    h1 {
+        
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    header {
+        background: rgb(59, 59, 59);
+        height: 70px; 
+        width: 100%;
+        margin-top: -20px;
+        margin-right: 70px;
+       padding-top: 10px;
+    }
+
+   #cabecalho, h1{
+    text-align:right;
+     color: rgb(255, 255, 255);
+     margin-right: 30px;
+     font-family: inherit;
+
+   }
+    
+    nav li {
+    display: block;
+    
+    }
+
+
+    #menu {
+        width: 20%;
+        height: 600px;
+        background-color: rgb(77, 77, 77);
+        margin-top: 0px;
+        float: left;
+        height: 900px;
+    }
+    #menu li {
+        color: rgb(255, 255, 255);
+    margin-top: 10px;
+    font-size: 40px;
+    margin-left: 45px;
+    }
+
+    #menu h2{
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+    }
+
+    #principal {
+        width: 80%;
+        height: 600px;
+        background-color:rgb(37, 37, 37);
+        float: left;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+        height: 900px;    
+    }
+
+    #principal h5{
+
+    margin: 30px;
+
+    }
+
+    img {
+
+        width: 80%;
+        border-radius: 50px;
+    }
+
+
+    p {
+        text-align: center;
+        font-size: 50px;
+        font-family: cursive;
+    }
+
